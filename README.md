@@ -79,6 +79,7 @@ The model was trained on the **Predictive Maintenance Dataset**.
 
 ## Example Logs to Try
 **Machine Type to be selected from the sidebar**
+
 **Machine Type: L (Low)**
 > "Shift report for Machine Unit 7. Air temperature logged at 298.8 K. Process temperature 308.9 K. Rotational speed was 1455 rpm, torque 41.3 Nm. Cumulative tool wear has reached 208 minutes."
 > **Result**: Defect Detected (Tool Wear Failure)
